@@ -1,0 +1,15 @@
+E:\Projects\projecteuler.net\10. Summation of primes\bin\Debug\net6.0\10. Summation of primes.exe
+E:\Projects\projecteuler.net\10. Summation of primes\bin\Debug\net6.0\10. Summation of primes.deps.json
+E:\Projects\projecteuler.net\10. Summation of primes\bin\Debug\net6.0\10. Summation of primes.runtimeconfig.json
+E:\Projects\projecteuler.net\10. Summation of primes\bin\Debug\net6.0\10. Summation of primes.dll
+E:\Projects\projecteuler.net\10. Summation of primes\bin\Debug\net6.0\10. Summation of primes.pdb
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\10. Summation of primes.csproj.AssemblyReference.cache
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\10. Summation of primes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\10. Summation of primes.AssemblyInfoInputs.cache
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\10. Summation of primes.AssemblyInfo.cs
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\10. Summation of primes.csproj.CoreCompileInputs.cache
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\10. Summation of primes.dll
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\refint\10. Summation of primes.dll
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\10. Summation of primes.pdb
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\10. Summation of primes.genruntimeconfig.cache
+E:\Projects\projecteuler.net\10. Summation of primes\obj\Debug\net6.0\ref\10. Summation of primes.dll

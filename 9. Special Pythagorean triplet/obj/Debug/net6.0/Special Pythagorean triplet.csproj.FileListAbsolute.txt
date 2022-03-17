@@ -1,0 +1,15 @@
+E:\Projects\projecteuler.net\Special Pythagorean triplet\bin\Debug\net6.0\Special Pythagorean triplet.exe
+E:\Projects\projecteuler.net\Special Pythagorean triplet\bin\Debug\net6.0\Special Pythagorean triplet.deps.json
+E:\Projects\projecteuler.net\Special Pythagorean triplet\bin\Debug\net6.0\Special Pythagorean triplet.runtimeconfig.json
+E:\Projects\projecteuler.net\Special Pythagorean triplet\bin\Debug\net6.0\Special Pythagorean triplet.dll
+E:\Projects\projecteuler.net\Special Pythagorean triplet\bin\Debug\net6.0\Special Pythagorean triplet.pdb
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\Special Pythagorean triplet.csproj.AssemblyReference.cache
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\Special Pythagorean triplet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\Special Pythagorean triplet.AssemblyInfoInputs.cache
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\Special Pythagorean triplet.AssemblyInfo.cs
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\Special Pythagorean triplet.csproj.CoreCompileInputs.cache
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\Special Pythagorean triplet.dll
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\refint\Special Pythagorean triplet.dll
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\Special Pythagorean triplet.pdb
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\Special Pythagorean triplet.genruntimeconfig.cache
+E:\Projects\projecteuler.net\Special Pythagorean triplet\obj\Debug\net6.0\ref\Special Pythagorean triplet.dll

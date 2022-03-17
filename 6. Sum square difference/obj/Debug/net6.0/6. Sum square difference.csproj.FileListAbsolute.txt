@@ -1,0 +1,15 @@
+E:\Projects\projecteuler.net\6. Sum square difference\bin\Debug\net6.0\6. Sum square difference.exe
+E:\Projects\projecteuler.net\6. Sum square difference\bin\Debug\net6.0\6. Sum square difference.deps.json
+E:\Projects\projecteuler.net\6. Sum square difference\bin\Debug\net6.0\6. Sum square difference.runtimeconfig.json
+E:\Projects\projecteuler.net\6. Sum square difference\bin\Debug\net6.0\6. Sum square difference.dll
+E:\Projects\projecteuler.net\6. Sum square difference\bin\Debug\net6.0\6. Sum square difference.pdb
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\6. Sum square difference.csproj.AssemblyReference.cache
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\6. Sum square difference.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\6. Sum square difference.AssemblyInfoInputs.cache
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\6. Sum square difference.AssemblyInfo.cs
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\6. Sum square difference.csproj.CoreCompileInputs.cache
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\6. Sum square difference.dll
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\refint\6. Sum square difference.dll
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\6. Sum square difference.pdb
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\6. Sum square difference.genruntimeconfig.cache
+E:\Projects\projecteuler.net\6. Sum square difference\obj\Debug\net6.0\ref\6. Sum square difference.dll

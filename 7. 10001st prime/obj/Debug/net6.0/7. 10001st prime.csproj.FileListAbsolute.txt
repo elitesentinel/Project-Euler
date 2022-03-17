@@ -1,0 +1,15 @@
+E:\Projects\projecteuler.net\7. 10001st prime\bin\Debug\net6.0\7. 10001st prime.exe
+E:\Projects\projecteuler.net\7. 10001st prime\bin\Debug\net6.0\7. 10001st prime.deps.json
+E:\Projects\projecteuler.net\7. 10001st prime\bin\Debug\net6.0\7. 10001st prime.runtimeconfig.json
+E:\Projects\projecteuler.net\7. 10001st prime\bin\Debug\net6.0\7. 10001st prime.dll
+E:\Projects\projecteuler.net\7. 10001st prime\bin\Debug\net6.0\7. 10001st prime.pdb
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\7. 10001st prime.csproj.AssemblyReference.cache
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\7. 10001st prime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\7. 10001st prime.AssemblyInfoInputs.cache
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\7. 10001st prime.AssemblyInfo.cs
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\7. 10001st prime.csproj.CoreCompileInputs.cache
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\7. 10001st prime.dll
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\refint\7. 10001st prime.dll
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\7. 10001st prime.pdb
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\7. 10001st prime.genruntimeconfig.cache
+E:\Projects\projecteuler.net\7. 10001st prime\obj\Debug\net6.0\ref\7. 10001st prime.dll
