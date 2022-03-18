@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\projecteuler.net\\10. Summation of primes\\10. Summation of primes.csproj": {}
+    "E:\\Projects\\projecteuler.net backup\\10. Summation of primes\\10. Summation of primes.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\projecteuler.net\\10. Summation of primes\\10. Summation of primes.csproj": {
+    "E:\\Projects\\projecteuler.net backup\\10. Summation of primes\\10. Summation of primes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\projecteuler.net\\10. Summation of primes\\10. Summation of primes.csproj",
+        "projectUniqueName": "E:\\Projects\\projecteuler.net backup\\10. Summation of primes\\10. Summation of primes.csproj",
         "projectName": "10. Summation of primes",
-        "projectPath": "E:\\Projects\\projecteuler.net\\10. Summation of primes\\10. Summation of primes.csproj",
+        "projectPath": "E:\\Projects\\projecteuler.net backup\\10. Summation of primes\\10. Summation of primes.csproj",
         "packagesPath": "C:\\Users\\recep\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\projecteuler.net\\10. Summation of primes\\obj\\",
+        "outputPath": "E:\\Projects\\projecteuler.net backup\\10. Summation of primes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\recep\\AppData\\Roaming\\NuGet\\NuGet.Config",
